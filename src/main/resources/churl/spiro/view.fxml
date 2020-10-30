@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.text.*?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml/" fx:controller="churl.spiro.Controller">
+    <Canvas fx:id="mainCanvas" width="1080" height="720"></Canvas>
+    <Pane fx:id="mainPane"></Pane>
+</StackPane>
